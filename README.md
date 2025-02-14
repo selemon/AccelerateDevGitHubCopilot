@@ -61,5 +61,5 @@ Library App is a console application for managing library operations such as sea
    ```sh
    dotnet build AccelerateDevGitHubCopilot.sln
 
-/ ## License
+## License
 This project is licensed under the MIT License
